@@ -1,5 +1,5 @@
 # Creating Columns Lab
-
+ 
 ## Problem Statement
 
 Websites will often employ a 'column-based' layout scheme to visually
